@@ -2,6 +2,5 @@ Milk
 Break
 Bananas
 Eggs
-Cookies
-cake
-Ice Cream
+Pineapple
+Carrots
